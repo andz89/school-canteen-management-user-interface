@@ -7,7 +7,8 @@ const Header = () => {
       <div className="flex w-full flex-wrap items-center justify-between px-3">
         <div className="ml-2 text-neutral-800  dark:text-neutral-200 text-light">
           <div className=" text-xl font-semibold flex items-center gap-3 border-solid border  border-gray-200 p-2 rounded">
-            <FaUser /> SSCT School Canteen Dashboard
+            <FaUser />
+            SNSU School Canteen Dashboard
           </div>
         </div>
 
